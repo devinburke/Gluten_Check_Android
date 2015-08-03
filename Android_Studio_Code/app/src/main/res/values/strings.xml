@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GlutenChecker</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name = "next">next</string>
+    <string name="title_activity_sub">SubActivity</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="tabs">
+        <item>Gluten Checker</item>
+        <item>Gluten Submit</item>
+        <item>Gluten Database</item>
+
+
+    </string-array>
+
+
+    <string name="rant">
+        This Gluten Free Database is 100% open source and is based off health websites. As well this database is ever growing
+        with the help of its users! It started out as a small project but has been booming ever since. See the page to the left
+        to submit Gluten Free, or non Gluten Free food item for review. All submissions are handled by our dedicated team.
+    </string>
+
+
+</resources>

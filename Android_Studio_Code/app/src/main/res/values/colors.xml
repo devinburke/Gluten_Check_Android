@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<color name="primaryColor">#3F51B5</color>
+
+<color name="primaryColorDark">#303F9f</color>
+
+
+
+
+<color name="accentColor">#F44336</color>
+    <color name = "tabs">#56CBF9</color>
+    <color name = "colorback">#FAF3DD</color>
+    <color name ="appbar">#FBB733</color>
+    <color name = "nav">#01B6D1</color>
+
+
+
+
+
+
+
+
+
+</resources>
